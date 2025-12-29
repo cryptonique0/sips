@@ -76,4 +76,4 @@ Activation-in-Progress status, and then to either Ratified or Rejected status.
 Once they are in the process of being activated,
 they use a SIP's Activation section to determine whether or not the Stacks
 ecosystem has ratified or rejected the SIP.  Joining this committee requires the
-consent of the Stacks Foundation board.
+consent of the Stacks Foundation board,.
